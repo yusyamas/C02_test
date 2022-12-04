@@ -6,12 +6,10 @@
 /*   By: yusyamas <yuppiy2000@icloud.com>           +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/10/13 14:56:21 by yusyamas          #+#    #+#             */
-/*   Updated: 2022/10/13 17:16:54 by yusyamas         ###   ########.fr       */
+/*   Updated: 2022/12/04 09:27:10 by yusyamas         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-/*https://opensource.apple.com/source/xnu/
-xnu-4570.1.46/osfmk/arm/strlcpy.c.auto.html*/
 #define FT_NULL '\0'
 
 unsigned int	ft_strlen(char *str)
